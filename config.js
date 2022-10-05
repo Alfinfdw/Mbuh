@@ -56,20 +56,20 @@ global.syt = 'https://youtu.be/ymNUw8bpijs' //Isi Pake Link Discordmu Kalo Gada 
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085814471066' //Nomor Danamu
-global.ppulsa = '085814471066' //Nomor SimCard Yang Kamu Pake
+global.pdana = '082223011829' //Nomor Danamu
+global.ppulsa = '085852939370' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/jarotoffc' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282376153591' //Nomor Bot
-global.nomorown = '6289510402269' //Nomor Owner
-global.namebot = 'ATSAIR-MULTIDEVICE'  //Nama Bot
-global.nameown = 'Atsair Offc'  // Nama Owner
+global.nomorbot = '6285852939370' //Nomor Bot
+global.nomorown = '6282223011829' //Nomor Owner
+global.namebot = 'ALganz-MD'  //Nama Bot
+global.nameown = 'ALganz Offc'  // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289510402269', '❦ Atsair 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6282223011829', '❦ ALganz 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -101,9 +101,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Atsair-MULTIDEVICE 汉  」' //Main Watermark
+global.wm = '                「 Alganz-MD 汉  」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Atsair-Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺  Atsair-MD'
+global.wm3 = '⫹⫺  Alganz-MD'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
