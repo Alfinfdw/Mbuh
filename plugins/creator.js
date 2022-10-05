@@ -21,20 +21,20 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let ppown = 'https://telegra.ph/file/f38f1ce61e1e674e20e94.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
 ${htjava} *💌 Nama* : Atsair Offc
-${htjava} *✉️ Nama YouTube* : AtsairGanteng
+${htjava} *✉️ Nama YouTube* : AL Ganteng
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 20 DESEMBER 2007
-${htjava} *🎨 Umur* : 14
+${htjava} *⏰ Tanggal lahir* : Kepo
+${htjava} *🎨 Umur* : Rahasia 
 ${htjava} *🧮 Kelas* : Lulus 
-${htjava} *🧩 Hobby* : Nonton Anime, Musik, Recode script bot
-${htjava} *💬 Sifat* : KULL
-${htjava} *🗺️ Tinggal* : Indo, Sulsel
+${htjava} *🧩 Hobby* : Diselingkuhi karena selingkuh 
+${htjava} *💬 Sifat* : Kepo
+${htjava} *🗺️ Tinggal* : Indo, Surabaya 
 ${htjava} *❤️ Suka* : Kamu
 ${htjava} *💔 Benci* : autis, seleb
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
-${htjava} *🇫  ғᴀᴄᴇʙᴏᴏᴋ* : Jarot
+${htjava} *🇫  ғᴀᴄᴇʙᴏᴏᴋ* : ALganz
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `
